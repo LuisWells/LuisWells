@@ -1,99 +1,93 @@
-<h1 align="center">Hi, I'm Jesús Miguel 👋</h1>
-
-<h3 align="center">
-Systems Engineering Graduate | Data Analyst | Fraud Analytics | Process Automation
-</h3>
+<h1 align="center">
+  Hi, I'm Jesús Miguel 👋
+</h1>
 
 <p align="center">
-Driven by data, focused on efficiency, and passionate about solving real-world problems through technology.
+  <b>Data Analyst based in Europe 🇪🇺 | Fraud Analytics | Process Automation</b>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-🎓 Systems Engineering graduate with a strong analytical mindset  
-📊 Specialized in **Data Analysis and Fraud Analytics**  
-⚙️ Focused on **process optimization and automation**  
-🐍 Experienced with **Python, SQL, and data-driven solutions**  
-🔍 Passionate about identifying patterns, anomalies, and opportunities in data  
+🎓 Systems Engineering graduate with a strong analytical and problem-solving mindset  
+📊 Specialized in **Data Analysis and Fraud Detection**  
+⚙️ Passionate about **process automation and efficiency improvement**  
+📍 Based in Europe, open to international opportunities  
+
+I focus on transforming raw data into insights, detecting anomalies, and building scalable solutions that improve business processes.
 
 ---
 
-## 💼 Professional Focus
+## 🚀 What I Do
 
-I combine engineering principles with data analytics to design efficient solutions, detect fraud patterns, and optimize processes.
-
-My main areas of work include:
-
-- Fraud detection and risk analysis  
-- Data exploration and reporting  
-- Process automation and optimization  
-- SQL-based data extraction and transformation  
-- Python for analytics and operational efficiency  
+- 🔍 Analyze data to detect fraud patterns and anomalies  
+- 📊 Build reports and dashboards for decision-making  
+- ⚙️ Automate repetitive processes using Python and SQL  
+- 🧠 Apply analytical thinking to optimize workflows  
+- 📈 Support business decisions through data-driven insights  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Professional-00C2FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 Core Skills
+## 📊 GitHub Insights
 
-- Data Analysis & Visualization  
-- Fraud Analytics & Pattern Detection  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+- Data Analytics & Business Intelligence  
+- Fraud Analytics & Risk Detection  
 - Process Automation  
-- Business Intelligence  
-- SQL & Database Management  
-- Problem Solving & Analytical Thinking  
+- SQL & Database Optimization  
+- Data Visualization & Storytelling  
 
 ---
 
-## 📈 GitHub Analytics
+## 🌱 Currently Growing In
+
+- Advanced SQL (window functions, optimization)  
+- Python for data pipelines & automation  
+- Fraud detection techniques (anomaly detection)  
+- BI tools and dashboarding  
+- Data-driven decision making  
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL for large-scale data analysis  
-- Python for automation and data pipelines  
-- Fraud detection techniques and anomaly detection  
-- Data visualization and storytelling  
-- Process optimization methodologies  
-
----
-
-## 📫 Connect With Me
-
-<p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-jesús%20miguel-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Turning data into insights, and processes into scalable solutions."</i>
+  <i>"Data is not just numbers — it's decisions waiting to happen."</i>
 </p>
