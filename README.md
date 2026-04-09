@@ -1,98 +1,97 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Systems Engineering Graduate | Fraud Analytics Data Analyst | SQL | Python | Process Automation</h3>
+<h1 align="center">
+  Hi, I'm Jesús Miguel 👋
+</h1>
 
 <p align="center">
-  Passionate about data analysis, process improvement, automation, and technology-driven solutions.
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Fraud+Analytics;Systems+Engineering+Graduate;SQL+%7C+Python+%7C+Automation;Turning+Data+into+Actionable+Insights" />
+</p>
+
+<p align="center">
+  <b>Data Analyst based in Europe 🇪🇺 | Fraud Analytics | Process Automation</b>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-- 🎓 Systems Engineering Graduate
-- 📊 Working in **Fraud Analytics / Data Analysis**
-- 🐍 Skilled in **Python**, **SQL**, and data-driven problem solving
-- ⚙️ Interested in **process automation**, analytics, and business optimization
-- 🔍 Focused on transforming data into actionable insights
+🎓 Systems Engineering graduate with a strong analytical and problem-solving mindset  
+📊 Specialized in **Data Analysis and Fraud Detection**  
+⚙️ Passionate about **process automation and efficiency improvement**  
+📍 Based in Europe, open to international opportunities  
+
+I focus on transforming raw data into insights, detecting anomalies, and building scalable solutions that improve business processes.
 
 ---
 
-## 💼 Professional Profile
+## 🚀 What I Do
 
-I am a Systems Engineering graduate with experience in data analysis, fraud analytics, and process-oriented environments.  
-My professional focus is on analyzing information, detecting patterns, improving workflows, and building efficient solutions through technology.
-
-I enjoy working on projects related to:
-
-- Data analysis and reporting
-- Fraud detection and risk analysis
-- Process automation
-- SQL querying and database management
-- Python for analytics and operational efficiency
+- 🔍 Analyze data to detect fraud patterns and anomalies  
+- 📊 Build reports and dashboards for decision-making  
+- ⚙️ Automate repetitive processes using Python and SQL  
+- 🧠 Apply analytical thinking to optimize workflows  
+- 📈 Support business decisions through data-driven insights  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📌 Areas of Interest
-
-- Fraud Analytics
-- Data Analysis
-- Business Intelligence
-- Process Optimization
-- Process Automation
-- Database Management
-- Systems and Digital Transformation
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-Professional-00C2FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌱 Currently Improving
+## 📊 GitHub Insights
 
-- Advanced SQL for analytics
-- Python for data analysis and automation
-- Fraud detection methodologies
-- Data visualization and dashboarding
-- Cybersecurity and digital risk awareness
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Focus Areas
 
-<p>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+- Data Analytics & Business Intelligence  
+- Fraud Analytics & Risk Detection  
+- Process Automation  
+- SQL & Database Optimization  
+- Data Visualization & Storytelling  
+
+---
+
+## 🌱 Currently Growing In
+
+- Advanced SQL (window functions, optimization)  
+- Python for data pipelines & automation  
+- Fraud detection techniques (anomaly detection)  
+- BI tools and dashboarding  
+- Data-driven decision making  
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jesús%20miguel-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Turning data into insights and processes into efficient solutions."</i>
+  <i>"Data is not just numbers — it's decisions waiting to happen."</i>
 </p>
